@@ -11,7 +11,7 @@ Recall: 0.990
 
 Documents in repo:
 
-accuracy_calculation.ipynb.   -I used to calculate the predictions against the real labels
+accuracy_calculation.ipynb.   -Used to calculate the predictions against the real labels
 
 Model_training.ipynb   -Our notebook with our model training results
 
