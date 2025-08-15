@@ -3,7 +3,6 @@ In this proeject we were tasked with predicting Fake News articles.
 We trained models on a prelabled data set and predicted on a unlabled dataset. In the end we checked our accuracy.
 
 Our best results:
-
 With Logistic Regression and TimeSeriesSplit.
 
 Accuracy on our prediction against the real labels: 0.9864
@@ -14,8 +13,8 @@ Precision: 0.996
 
 Recall: 0.990
 
-Documents in repo:
 
+Documents in repo:
 accuracy_calculation.ipynb.   -Used to calculate the predictions against the real labels
 
 Model_training.ipynb   -Our notebook with our model training results
